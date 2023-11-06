@@ -59,23 +59,25 @@ Stop Here
 After this, continue to set up the VM with default settings. When asked to install OPENSSH server, we click "yes" and continue. Next, we move to the Windows VM.
 
 <h2>Disable Defender on Windows VM</h2>
-Power on the Windows VM.
-Next we are going to permanently disable Microsft Defender.
-Disable Tamper Protection
-Click the “Start” menu icon
-Click “Settings”
-Click “Privacy & security” on the left
-Click “Windows Security”
-Click “Virus & threat protection”
-Under “Virus & threat protection settings” click “Manage settings”
-Toggle OFF the “Tamper Protection” switch. When prompted, click “Yes”
+Power on the Windows VM.<br />
+Next we are going to permanently disable Microsft Defender.<br />
+Disable Tamper Protection<br />
+Click the “Start” menu icon<br />
+Click “Settings”<br />
+Click “Privacy & security” on the left<br />
+Click “Windows Security”<br />
+Click “Virus & threat protection”<br />
+Under “Virus & threat protection settings” click “Manage settings”<br />
+Toggle OFF the “Tamper Protection” switch. When prompted, click “Yes”<br />
 <p align="center">
 <img src="https://i.imgur.com/T9zZuNB.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+While you’re in there, toggle every other option OFF as well, even though we’re about to take care of it a couple of different ways.<br />
+Close the windows we just opened.<br />
 
 </b>
 
-<h2>Set Up the VMs</h2>
+<h2>Set Up Lima Charlie</h2>
 <b>
 VMware: Download and install a free trial of VMware Workstation.
  
