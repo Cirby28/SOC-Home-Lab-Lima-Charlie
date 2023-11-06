@@ -33,7 +33,7 @@ Customize Hardware
 
 During OS install, leave defaults unless otherwise specified
 
-Use Tab to navigate, Space to check boxes, Enter to confirm
+Use Tab to navigate, Space to check boxes, and Enter to confirm
 
 “Installer update available”
 
@@ -43,7 +43,19 @@ Stop Here
 <p align="center">
 <img src="https://i.imgur.com/SMNBm9m.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
-
+<h2>Edit Network Connections</h2>
+<p align="center">
+<img src="https://i.imgur.com/6dOeZBe.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/PPQFpcw.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/dc0sRIG.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+<p align="center">
+<img src="https://i.imgur.com/HmG1pOY.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
 </b>
 
 <h2>Set Up the VMs</h2>
@@ -69,11 +81,14 @@ Customize Hardware
 
 During OS install, leave defaults unless otherwise specified
 
-Use Tab to navigate, Space to check boxes, Enter to confirm
+Use Tab to navigate, Space to check boxes, and Enter to confirm
 
 “Installer update available”
 
 “Continue without updating”
+
+Stop Here
+
 </b>
 <br />
 <br />
