@@ -10,8 +10,34 @@ First, I set up the Linux VM and created the malware. Next, I set up the Windows
  [Part 5] (https://youtu.be/fVIprhn_hcw)<br />
 
 
-<h2>Description</h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third-party API to collect geographic information about the attackers' location.
+<h2>Set Up the VMs</h2>
+<b>
+VMware: Download and install a free trial of VMware Workstation.
+ 
+Windows VM: Download and deploy a free Windows VM directly from Microsoft. Get the “VMWare” version of the workstation. Once downloaded, unzip the VM and double-click the WinDev####Eval.ovf file to import the VM into VMware, but do not start it up yet.<br />
+ Once imported, if you have 16GB or less of RAM on your system, you may want to modify the amount of RAM allocated to the Windows system — it has 8GB by default but can run with 4GB. If the VMs run slow, it may be due to not enough free RAM on your host.
+
+Linux: Download and install Ubuntu into a new VM. Download the Ubuntu Server 22.04.1 installer ISO.<br />
+ *NOTE: I am specifying the SERVER version of Ubuntu because it comes preinstalled with necessary packages. If you choose the Desktop flavor, you will have issues, and you are wasting unnecessary resources.*
+Once downloaded, create a new VM in Workstation with the following specs
+
+   Use the downloaded ISO as the installer image
+
+14GB Disk size
+
+Customize Hardware
+
+2 CPU cores
+
+2GB RAM
+
+During OS install, leave defaults unless otherwise specified
+
+Use Tab to navigate, Space to check boxes, Enter to confirm
+
+“Installer update available”
+
+“Continue without updating”
 </b>
 <br />
 <br />
