@@ -38,6 +38,12 @@ Use Tab to navigate, Space to check boxes, Enter to confirm
 “Installer update available”
 
 “Continue without updating”
+
+Stop Here
+<p align="center">
+<img src="https://i.imgur.com/SMNBm9m.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
 </b>
 
 <h2>Set Up the VMs</h2>
