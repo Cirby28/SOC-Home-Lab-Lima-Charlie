@@ -83,7 +83,7 @@ Close the windows we just opened.<br />
 
 Check for Presence of Sysmon Event Logs
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/wTcKvMz.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Set Up Lima Charlie</h2>
