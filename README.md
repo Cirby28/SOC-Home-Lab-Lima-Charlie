@@ -102,19 +102,24 @@ Check for Presence of Sysmon Event Logs
 <p align="center">
 <img src="https://i.imgur.com/rmn7p35.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+
 <h2>Generate Sliver C2 Payload</h2>
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/9NSX0PK.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Start Command and Control</h2>
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/eUDDTVi.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Observe EDR Telemetry So Far</h2>
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/gYXTLyc.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/Jl8B1IH.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Advaserial Proc Dump</h2>
@@ -124,20 +129,21 @@ Check for Presence of Sysmon Event Logs
 
 <h2>Proc Dump Detection</h2>
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/Jl8B1IH.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+
+<h2>Write a Custom Rule to Detect the Malware</h2>
+<p align="center">
+<img src="https://i.imgur.com/hbFTiCA.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+<h2>Proc Dump Again and Notice New Telemetry in Lima Charlie</h2>
+<p align="center">
+<img src="https://i.imgur.com/URxMn7n.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
 </b>
 <br />
 <br />
-The script is used in this demo where I set up Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers' Geolocation information and plot it on an Azure Sentinel Map!
+With that the lab is done. We have created a malware, launched it, and also detected it. More can be done with this lab, such as using Velociraptor to create more aggresive detection rules that will better protect the computer. However, that is outside of the scope of the current lab.
 <br />
-<br />
-
-
-<h2>Languages Used</h2>
-
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
-
-<h2>Utilities Used</h2>
