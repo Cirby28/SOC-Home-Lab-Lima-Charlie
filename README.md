@@ -81,7 +81,7 @@ Close the windows we just opened.<br />
 <img src="https://i.imgur.com/4383EhM.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-Check for Presence of Sysmon Event Logs
+<h2>Check for Presence of Sysmon Event Logs</h2>
 <p align="center">
 <img src="https://i.imgur.com/wTcKvMz.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
@@ -124,7 +124,7 @@ Check for Presence of Sysmon Event Logs
 
 <h2>Advaserial Proc Dump</h2>
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/elnQyQo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>Proc Dump Detection</h2>
