@@ -1,4 +1,4 @@
-![image](https://github.com/Cirby28/SOC-Home-Lab-Lima-Charlie/assets/145408632/30057ccf-a1ac-41c8-9f67-8fa6e22adce4)# SOC-Home-Lab-Lima-Charlie
+# SOC-Home-Lab-Lima-Charlie
 Working in VM Workstation Pro, I set up a Windows VM and a Linux VM. Then, using the Linux VM, created malware and deployed it on the Windows machine.
 
 First, I set up the Linux VM and created the malware. Next, I set up the Windows Vms. Next, I disabled Windows Defender on the Windows system and downloaded a payload created with Sliver C2 from the Linux machine. Lastly, using LimaCharlie EDR, analyzed logs on the Windows machine and wrote custom detection rules to generate alerts anytime this program was executed.
@@ -145,7 +145,7 @@ Check for Presence of Sysmon Event Logs
 
 <h2>Proc Dump Again and Notice New Telemetry in Lima Charlie</h2>
 <p align="center">
-<img src="https://i.imgur.com/URxMn7n.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/ktxXSmr.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 </b>
