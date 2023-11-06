@@ -151,5 +151,6 @@ Close the windows we just opened.<br />
 </b>
 <br />
 <br />
+<h2>Finished</h2>
 With that the lab is done. We have created a malware, launched it, and also detected it. More can be done with this lab, such as using Velociraptor to create more aggresive detection rules that will better protect the computer. However, that is outside of the scope of the current lab.
 <br />
