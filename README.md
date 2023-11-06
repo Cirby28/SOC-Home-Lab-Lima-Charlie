@@ -56,6 +56,23 @@ Stop Here
 <p align="center">
 <img src="https://i.imgur.com/HmG1pOY.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+After this, continue to set up the VM with default settings. When asked to install OPENSSH server, we click "yes" and continue. Next, we move to the Windows VM.
+
+<h2>Disable Defender on Windows VM</h2>
+Power on the Windows VM.
+Next we are going to permanently disable Microsft Defender.
+Disable Tamper Protection
+Click the “Start” menu icon
+Click “Settings”
+Click “Privacy & security” on the left
+Click “Windows Security”
+Click “Virus & threat protection”
+Under “Virus & threat protection settings” click “Manage settings”
+Toggle OFF the “Tamper Protection” switch. When prompted, click “Yes”
+<p align="center">
+<img src="https://i.imgur.com/T9zZuNB.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
 </b>
 
 <h2>Set Up the VMs</h2>
