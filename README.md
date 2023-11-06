@@ -123,7 +123,7 @@ Close the windows we just opened.<br />
 <img src="https://i.imgur.com/Jl8B1IH.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>Advaserial Proc Dump</h2>
+<h2>Proc Dump Command From Advesarial VM</h2>
 <p align="center">
 <img src="https://i.imgur.com/elnQyQo.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
@@ -149,7 +149,6 @@ Close the windows we just opened.<br />
 <img src="https://i.imgur.com/ktxXSmr.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-</b>
 <br />
 <br />
 <h2>Finished</h2>
