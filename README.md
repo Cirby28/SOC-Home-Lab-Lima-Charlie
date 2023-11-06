@@ -11,7 +11,7 @@ First, I set up the Linux VM and created the malware. Next, I set up the Windows
 
 
 <h2>Set Up the VMs</h2>
-<b>
+
 VMware: Download and install a free trial of VMware Workstation.
  
 Windows VM: Download and deploy a free Windows VM directly from Microsoft. Get the “VMWare” version of the workstation. Once downloaded, unzip the VM and double-click the WinDev####Eval.ovf file to import the VM into VMware, but do not start it up yet.<br />
@@ -39,7 +39,7 @@ Use Tab to navigate, Space to check boxes, and Enter to confirm
 
 “Continue without updating”
 
-Stop Here
+<b>Stop Here<b />
 <p align="center">
 <img src="https://i.imgur.com/SMNBm9m.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
@@ -78,7 +78,7 @@ Close the windows we just opened.<br />
 </b>
 <h2>Install Sysmon</h2>
  <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/4383EhM.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 Check for Presence of Sysmon Event Logs
@@ -88,17 +88,20 @@ Check for Presence of Sysmon Event Logs
 
 <h2>Set Up Lima Charlie</h2>
  <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/SO3LnAC.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/N5YsXXR.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/ccWLMRT.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
+<p align="center">
+<img src="https://i.imgur.com/rmn7p35.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
 <h2>Generate Sliver C2 Payload</h2>
 <p align="center">
 <img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
