@@ -56,11 +56,12 @@ Use Tab to navigate, Space to check boxes, and Enter to confirm
 <p align="center">
 <img src="https://i.imgur.com/HmG1pOY.png?3" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+
 After this, continue to set up the VM with default settings. When asked to install OPENSSH server, we click "yes" and continue. Next, we move to the Windows VM.
 
 <h2>Disable Defender on Windows VM</h2>
 Power on the Windows VM.<br />
-Next we are going to permanently disable Microsft Defender.<br />
+Next we are going to permanently disable Microsoft Defender.<br />
 Disable Tamper Protection<br />
 Click the “Start” menu icon<br />
 Click “Settings”<br />
@@ -75,7 +76,7 @@ Toggle OFF the “Tamper Protection” switch. When prompted, click “Yes”<br
 While you’re in there, toggle every other option OFF as well, even though we’re about to take care of it a couple of different ways.<br />
 Close the windows we just opened.<br />
 
-</b>
+
 <h2>Install Sysmon</h2>
  <p align="center">
 <img src="https://i.imgur.com/4383EhM.png?1" height="85%" width="85%" alt="Image Analysis Dataflow"/>
